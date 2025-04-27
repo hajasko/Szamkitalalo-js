@@ -2,7 +2,7 @@
 
 ## Link
 
-TODO
+https://hajasko.github.io/Szamkitalalo-js/
 
 ## Leírás 
 
